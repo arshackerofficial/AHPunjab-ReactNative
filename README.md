@@ -37,11 +37,16 @@ Follow these steps to get started with AH PUNJAB React Native App:
 
 ## Contribution Guidelines
 
-We welcome contributions from the community to make AH PUNJAB React Native App even better! If you'd like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the community to make AH PUNJAB React Native App even better! If you'd like to contribute, please email me @ [arshpreetmalkana@gmail.com](mailto:arshpreetmalkana@gmail.com)
 
-## License
+## License and Usage Restrictions
 
-AH PUNJAB React Native App is licensed under the [MIT License](LICENSE).
+AH PUNJAB React Native App is released under the MIT License, which grants developers the freedom to use, modify, and distribute the source code. However, it is important to note the following usage restriction:
+
+No Copying for Commercial Use: While the app is open-source and free to use, copying the entire application or any substantial part for commercial purposes is strictly prohibited. The MIT License does not grant permission for wholesale replication of the app for profit.
+We encourage developers to contribute, learn, and build upon the codebase for personal and educational purposes within the bounds of the MIT License. For any commercial use or distribution, please reach out to the maintainers to discuss potential collaboration or licensing agreements.
+
+Thank you for respecting these terms and helping to maintain a healthy open-source community! 🙌
 
 ## Acknowledgments
 
